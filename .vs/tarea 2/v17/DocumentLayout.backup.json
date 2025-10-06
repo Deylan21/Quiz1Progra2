@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,10 +24,14 @@
               "RelativeDocumentMoniker": "tarea 2\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Trabajos de la U\\Q3\\Progra 2\\Tareas\\tarea 2\\tarea 2\\Program.cs",
               "RelativeToolTip": "tarea 2\\Program.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAA9wGIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T20:17:11.201Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
